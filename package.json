@@ -1,0 +1,31 @@
+{
+  "name": "react-project1",
+  "version": "1.0.0",
+  "description": "React Project 1",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vino-k-g/react-project1.git"
+  },
+  "keywords": [],
+  "author": "Vinodh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vino-k-g/react-project1/issues"
+  },
+  "homepage": "https://github.com/vino-k-g/react-project1#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist": [
+    "last 10 versions"
+  ]
+}
